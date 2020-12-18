@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/infoID"
+        android:icon="@drawable/baseline_info_white_48"
+        android:title="About Application"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/addID"
+        android:icon="@drawable/baseline_note_add_white_48"
+        android:title="Add Note"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/deleteAllID"
+        android:icon="@drawable/baseline_delete_white_48"
+        android:title="Delete All"
+        app:showAsAction="always" />
+</menu>

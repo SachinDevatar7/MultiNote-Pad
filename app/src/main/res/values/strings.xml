@@ -1,0 +1,8 @@
+<resources>
+    <string name="maintainer">Sachin Devatar</string>
+    <string name="version">Version 1.0.0</string>
+    <string name="copyright_Text">&#169; 2020,  Sachin Devatar</string>
+    <string name="app_name">MultiNote-Pad</string>
+    <string name="encoding">UTF-8</string>
+    <string name="jsonFileName">MultiNotes.json</string>
+</resources>
